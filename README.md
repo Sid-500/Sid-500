@@ -1,4 +1,4 @@
-#Sid-500
+# Sid-500
 
 ### Hello, World! 👋
 
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, a third-year B.Tech student m
 - Data Analysis
 - HTML CSS & Javascript
 
-###Contributions
+### Contributions
 
 I'm open to collaboration and contributions! If you have ideas or would like to contribute to my projects, please reach out or submit a pull request.
 
