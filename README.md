@@ -14,49 +14,51 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, a third-year B.Tech student m
 - 🐦 Twitter: https://twitter.com/Siddhant_Zolage
 - 📧 Contact me at: zolagesiddhant@gmail.com
 
+
 ### Projects
 
 #### Web Development Projects:
 
 1. Temperature Converter
 
-- A simple web application to convert temperatures between Celsius and Fahrenheit.
-- Technologies: HTML, CSS, JavaScript
-- https://github.com/Sid-500/TempConverter
+  - A simple web application to convert temperatures between Celsius and Fahrenheit.
+  - Technologies: HTML, CSS, JavaScript
+  - https://github.com/Sid-500/TempConverter
 
 2. To-Do Application
 
-- A task management web app to keep track of your to-do list.
-- Technologies: HTML, CSS, JavaScript
-- https://github.com/Sid-500/To-do-Application
+  - A task management web app to keep track of your to-do list.
+  - Technologies: HTML, CSS, JavaScript
+  - https://github.com/Sid-500/To-do-Application
 
 3. Registration Form
 
-- A web form for user registration with validation features.
-- Technologies: HTML, CSS, JavaScript
-- https://github.com/Sid-500/Registration-Form
+  - A web form for user registration with validation features.
+  - Technologies: HTML, CSS, JavaScript
+  - https://github.com/Sid-500/Registration-Form
 
 #### C++ Projects:
 
-1. Rock Paper Scissors Game
+1. ATM System (C++)
 
-- A console-based Rock Paper Scissors game implemented in C++.
-- https://github.com/Sid-500/Rock-Paper-Scissor
+  - A console-based ATM System implemented in C++ with Object-Oriented Programming concepts.
+  - https://github.com/Sid-500/ATM-System
 
 2. To-Do List Application (C++)
 
-- A console-based To-Do List application using C++ and Object-Oriented Programming.
-- https://github.com/Sid-500/To-Do-List
+  - A console-based To-Do List application using C++ and Object-Oriented Programming.
+  - https://github.com/Sid-500/To-Do-List
 
 3. Random Password Generator (C++)
 
-- A console-based application to generate random passwords in C++.
-- https://github.com/Sid-500/Password-Generator
+  - A console-based application to generate random passwords in C++.
+  - https://github.com/Sid-500/Password-Generator
 
-4. ATM System (C++)
+4. Rock Paper Scissors Game
 
-- A console-based ATM System implemented in C++ with Object-Oriented Programming concepts.
-- https://github.com/Sid-500/ATM-System
+  - A console-based Rock Paper Scissors game implemented in C++.
+  - https://github.com/Sid-500/Rock-Paper-Scissor
+
 
 ### Technologies I Love
 
