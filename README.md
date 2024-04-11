@@ -21,21 +21,21 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, a third-year B.Tech student m
 
 1. Temperature Converter
 
-  - A simple web application to convert temperatures between Celsius and Fahrenheit.
-  - Technologies: HTML, CSS, JavaScript
-  - https://github.com/Sid-500/TempConverter
+    - A simple web application to convert temperatures between Celsius and Fahrenheit.
+    - Technologies: HTML, CSS, JavaScript
+    - https://github.com/Sid-500/TempConverter
 
 2. To-Do Application
 
-  - A task management web app to keep track of your to-do list.
-  - Technologies: HTML, CSS, JavaScript
-  - https://github.com/Sid-500/To-do-Application
+    - A task management web app to keep track of your to-do list.
+    - Technologies: HTML, CSS, JavaScript
+    - https://github.com/Sid-500/To-do-Application
 
 3. Registration Form
 
-  - A web form for user registration with validation features.
-  - Technologies: HTML, CSS, JavaScript
-  - https://github.com/Sid-500/Registration-Form
+    - A web form for user registration with validation features.
+    - Technologies: HTML, CSS, JavaScript
+    - https://github.com/Sid-500/Registration-Form
 
 #### C++ Projects:
 
