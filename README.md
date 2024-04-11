@@ -41,23 +41,23 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, a third-year B.Tech student m
 
 1. ATM System (C++)
 
-  - A console-based ATM System implemented in C++ with Object-Oriented Programming concepts.
-  - https://github.com/Sid-500/ATM-System
+      - A console-based ATM System implemented in C++ with Object-Oriented Programming concepts.
+      - https://github.com/Sid-500/ATM-System
 
 2. To-Do List Application (C++)
 
-  - A console-based To-Do List application using C++ and Object-Oriented Programming.
-  - https://github.com/Sid-500/To-Do-List
+      - A console-based To-Do List application using C++ and Object-Oriented Programming.
+      - https://github.com/Sid-500/To-Do-List
 
 3. Random Password Generator (C++)
 
-  - A console-based application to generate random passwords in C++.
-  - https://github.com/Sid-500/Password-Generator
+      - A console-based application to generate random passwords in C++.
+      - https://github.com/Sid-500/Password-Generator
 
 4. Rock Paper Scissors Game
 
-  - A console-based Rock Paper Scissors game implemented in C++.
-  - https://github.com/Sid-500/Rock-Paper-Scissor
+      - A console-based Rock Paper Scissors game implemented in C++.
+      - https://github.com/Sid-500/Rock-Paper-Scissor
 
 
 ### Technologies I Love
